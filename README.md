@@ -1,2 +1,2 @@
-# component-tree-practice
+# sprad-operator-practice
 Created with CodeSandbox
